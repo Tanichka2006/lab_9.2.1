@@ -1,0 +1,19 @@
+﻿  UnitTest 9.2.1.cpp
+C:\Users\admin\source\repos\lab 9.2.1\UnitTest 9.2.1\UnitTest 9.2.1.cpp(31,3): error C2059: syntax error: '}'
+  (compiling source file '/UnitTest%209.2.1.cpp')
+  
+C:\Users\admin\source\repos\lab 9.2.1\UnitTest 9.2.1\UnitTest 9.2.1.cpp(31,3): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/UnitTest%209.2.1.cpp')
+  
+C:\Users\admin\source\repos\lab 9.2.1\UnitTest 9.2.1\UnitTest 9.2.1.cpp(32,2): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/UnitTest%209.2.1.cpp')
+  
+C:\Users\admin\source\repos\lab 9.2.1\UnitTest 9.2.1\UnitTest 9.2.1.cpp(32,2): error C2059: syntax error: '}'
+  (compiling source file '/UnitTest%209.2.1.cpp')
+  
+C:\Users\admin\source\repos\lab 9.2.1\UnitTest 9.2.1\UnitTest 9.2.1.cpp(33,1): error C2059: syntax error: '}'
+  (compiling source file '/UnitTest%209.2.1.cpp')
+  
+C:\Users\admin\source\repos\lab 9.2.1\UnitTest 9.2.1\UnitTest 9.2.1.cpp(33,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/UnitTest%209.2.1.cpp')
+  
